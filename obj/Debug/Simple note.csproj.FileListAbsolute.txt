@@ -1,0 +1,21 @@
+C:\Users\joaoc\source\repos\Simple note\bin\Debug\Simple note.exe.config
+C:\Users\joaoc\source\repos\Simple note\bin\Debug\Simple note.exe
+C:\Users\joaoc\source\repos\Simple note\bin\Debug\Simple note.pdb
+C:\Users\joaoc\source\repos\Simple note\obj\Debug\Simple note.csprojAssemblyReference.cache
+C:\Users\joaoc\source\repos\Simple note\obj\Debug\MainWindow.g.cs
+C:\Users\joaoc\source\repos\Simple note\obj\Debug\App.g.cs
+C:\Users\joaoc\source\repos\Simple note\obj\Debug\Simple note_MarkupCompile.cache
+C:\Users\joaoc\source\repos\Simple note\obj\Debug\Simple note_MarkupCompile.lref
+C:\Users\joaoc\source\repos\Simple note\obj\Debug\MainWindow.baml
+C:\Users\joaoc\source\repos\Simple note\obj\Debug\Simple note.g.resources
+C:\Users\joaoc\source\repos\Simple note\obj\Debug\Simple_note.Properties.Resources.resources
+C:\Users\joaoc\source\repos\Simple note\obj\Debug\Simple note.csproj.GenerateResource.cache
+C:\Users\joaoc\source\repos\Simple note\obj\Debug\Simple note.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\Simple note\obj\Debug\Simple note.exe
+C:\Users\joaoc\source\repos\Simple note\obj\Debug\Simple note.pdb
+C:\Users\joaoc\source\repos\Simple note\obj\Debug\input_mensage_window.g.cs
+C:\Users\joaoc\source\repos\Simple note\obj\Debug\input_mensage_window.baml
+C:\Users\joaoc\source\repos\Simple note\bin\Debug\Simple note.exe.manifest
+C:\Users\joaoc\source\repos\Simple note\bin\Debug\Simple note.application
+C:\Users\joaoc\source\repos\Simple note\obj\Debug\Simple note.exe.manifest
+C:\Users\joaoc\source\repos\Simple note\obj\Debug\Simple note.application

@@ -1,0 +1,16 @@
+﻿<Window x:Class="Simple_note.input_mensage_window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Simple_note"
+        mc:Ignorable="d"
+        Title="Simple note" Height="200" Width="600" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" ShowInTaskbar="False"  Icon="assets/icon.png">
+    <Grid Margin="60, 20, 60, 10">
+        <StackPanel >
+            <TextBlock Text="Digite seu lembrete" FontSize="20"  FontWeight="Bold" Foreground="#747981"/>
+            <TextBox x:Name="txtbox_mensage" Margin="0,10,0,0" BorderBrush="#9ea0a6" Padding="2" FontWeight="Bold" FontSize="18"/>
+            <Button Width="40" Margin="20" Height="30" BorderBrush="Transparent" Background="#51e3a4"  Content="OK" Click="Button_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
